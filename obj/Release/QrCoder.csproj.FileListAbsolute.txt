@@ -1,0 +1,12 @@
+E:\Projects\QrCoder\QrCoder\bin\Release\QrCoder.exe.config
+E:\Projects\QrCoder\QrCoder\bin\Release\QrCoder.exe
+E:\Projects\QrCoder\QrCoder\bin\Release\QrCoder.pdb
+E:\Projects\QrCoder\QrCoder\bin\Release\MessagingToolkit.QRCode.dll
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.csprojAssemblyReference.cache
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.Form1.resources
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.Properties.Resources.resources
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.csproj.GenerateResource.cache
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.csproj.CoreCompileInputs.cache
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.csproj.CopyComplete
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.exe
+E:\Projects\QrCoder\QrCoder\obj\Release\QrCoder.pdb
