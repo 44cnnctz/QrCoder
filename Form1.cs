@@ -101,10 +101,17 @@ namespace QrCoder
             OpenFileDialog load = new OpenFileDialog();
             if (load.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                Bitmap qr = new Bitmap(load.FileName);
-                pictureBox1.Image = qr;
-                QRCodeDecoder decoder = new QRCodeDecoder();
-                richTextBox1.Text = decoder.Decode(new QRCodeBitmapImage(qr));
+                try
+                {
+                    Bitmap qr = new Bitmap(load.FileName);
+                    QRCodeDecoder decoder = new QRCodeDecoder();
+                    richTextBox1.Text = decoder.Decode(new QRCodeBitmapImage(qr));
+                    pictureBox1.Image = qr;
+                }
+                catch
+                {
+                
+                }
             }
         }
     }
